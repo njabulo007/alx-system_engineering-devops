@@ -1,1 +1,1 @@
-created a script that prints out my current working directory
+working with shell, basics  and executing script
